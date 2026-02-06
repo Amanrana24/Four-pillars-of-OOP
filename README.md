@@ -1,2 +1,2 @@
-# Four-pillars-of-OOP
-Examples of Encapsulation, Inheritance, Polymorphism, and Abstraction
+# Four-Pillars-of-OOP
+Examples of Encapsulation, Inheritance, Polymorphism, and Abstraction 
